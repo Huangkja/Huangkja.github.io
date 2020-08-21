@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Personel           |  Description
+:-------------------------:|:-------------------------
+![KaijiaProfile](/assets/images/jiatou.png)  | Currently studying sustainable energy in DTU, specializing in wind energy. Interested in renewable energy integration and generation research.
+![LuofuProfile](/assets/images/luotou.png)  | Previously an energy saving and a news video editor, Luofu has a great grasp of knowledge of renewable energy industry and video editing. She is now a full-time mother, and a volunteer at [Medie 1](http://www.medie1.dk/), in Denmark.
+![MimiProfile](/assets/images/mitou.png)  | Having over one year of professional trouble making experience, [Mimi](https://lolojia.blogspot.com/) is always our precious sweet little pumkin. She has a strong motivation on foraging dust bin. Good at throwing food.

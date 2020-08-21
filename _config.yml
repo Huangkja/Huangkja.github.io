@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Kaijia Blog
 title_separator: "|"
-subtitle: "Working"
+subtitle: "Happy Living"
 email: kihuang@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kaijia's study notes, memo and more.
+  Welcome to my blog! Have fun!
 # twitter_username: username
 github_username: Huangkja
 minimal_mistakes_skin: default
@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: Huangkja/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -60,17 +60,18 @@ plugins:
 author:
   name   : "Kaijia Huang"
   avatar : "/assets/images/bio-photo3.png"
-  bio    : "My study notes and more."
+  bio    : "Prospective Sustainable Energy Engineer"
   links:
-    - label: "Me"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Unsplash"
+      icon: "fab fa-unsplash"
+      url: "https://unsplash.com/@mimifar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Huangkja"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kaijia-huang/"
+      
 
 footer:
   links:
