@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-sidebar:
-    nav: "main"
 ---
 
 Personel           |  Description
