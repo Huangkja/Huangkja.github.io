@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kaijia Blog
+title: "Kaijia Blog"
 title_separator: "|"
-subtitle: "Happy Living"
+subtitle: "Welcome!"
+name: "Kaijia"
 email: kihuang@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog! Have fun!
+  "I make notes on things here."
 # twitter_username: username
-github_username: Huangkja
+repository: Huangkja/Huangkja.github.io
+logo: "/assets/images/mitou.png" 
 minimal_mistakes_skin: default
 search: true
 
@@ -90,10 +92,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      classes: wide
+      # classes: wide
       comments: false
       share: false
       related: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
